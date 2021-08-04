@@ -17,6 +17,9 @@
   z-index: 99;
   transition: all 0.5s ease;
 }
+.sidebar ol,.sidebar ul{
+  margin-left: -30px !important;
+}
 .sidebar.open{
   width: 250px;
 }
